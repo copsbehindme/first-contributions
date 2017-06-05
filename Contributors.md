@@ -127,3 +127,4 @@ Deepak Hooda
 Grant Hixson
 - [AndroidFanatic](https://github.com/androidfanatic)
 - [Ernesto Alarcon](https://github.com/ernestoalarcon)
+- [Rohit Gupta](https://github.com/copsbehindme)
